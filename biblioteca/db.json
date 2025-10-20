@@ -1,0 +1,64 @@
+{
+  "filmes": [
+    {
+      "id": "1",
+      "titulo": "Amores Materialistas",
+      "genero": "Romance",
+      "duracao": "117",
+      "plataforma": "Max",
+      "ano": 2025,
+      "sinopse": "Lucy é uma casamenteira de Nova York que se vê dividida entre Harry, um empresário romântico e misterioso e John, um ex-namorado que ainda está tentando equilibrar sua vida, mas desperta uma antiga paixão na mulher.",
+      "imagem": "https://m.media-amazon.com/images/M/MV5BOGNhYmY5YzgtZDE5Yi00OGJlLThkMTctOTEyNzdjZjcyMDg4XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Lilo & Stitch",
+      "genero": "Comédia/Ficção",
+      "duracao": "108",
+      "plataforma": "Disney Plus",
+      "ano": 2025,
+      "sinopse": "Stitch, um alienígena, chega ao planeta Terra após fugir de sua prisão e tenta se passar por um cachorro para se camuflar. As coisas mudam quando Lilo, uma travessa menina, o adota de um abrigo de animais. Juntos, eles aprendem os valores da amizade e família.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/en/5/56/Lilo_%26_Stitch_2025_Theatrical_Poster.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "A Paris Errada",
+      "genero": "Comédia Romântica",
+      "duracao": "99",
+      "plataforma": "Netflix",
+      "ano": 2025,
+      "sinopse": "Dawn entra em um reality achando que o programa será filmado em Paris, na França, mas descobre que o programa se passará em Paris, no Texas. Ela faz de tudo para desistir, mas um caubói charmoso acaba atrapalhando seus planos.",
+      "imagem": "https://br.web.img2.acsta.net/c_310_420/img/34/eb/34ebe6c5ca5ebf954c69ea049394aa00.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Wicked",
+      "genero": "Aventura",
+      "duracao": "164",
+      "plataforma": "Primevideo",
+      "ano": "2024",
+      "sinopse": "Wicked, a história não contada das bruxas de Oz, traz a potente ganhadora do Grammy Cynthia Erivo como Elphaba, uma jovem incompreendida por causa de sua rara pele verde, que está por descobrir sua verdadeira força.",
+      "imagem": "https://www.universalpics.com.br/tl_files/content/movies/wicked/posters/01.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "De volta à ação",
+      "genero": "Ação, Comédia",
+      "duracao": "114",
+      "plataforma": "Netflix",
+      "ano": "2025",
+      "sinopse": "Quinze anos depois de abandonar a CIA para formar uma família, os ex-agentes de elite Matt e Emily voltam ao mundo da espionagem ao terem seus disfarces revelados.",
+      "imagem": "https://br.web.img3.acsta.net/img/c4/2b/c42bfd7729ea4787457cb71827133233.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Um Filme Minecraft",
+      "genero": "Aventura",
+      "duracao": "101",
+      "plataforma": "Primevideo",
+      "ano": "2025",
+      "sinopse": "Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das maravilhas bizarras e cúbicas que prospera com a imaginação. Para voltar para casa, eles têm que dominar o terreno enquanto embarcam em uma missão mágica com um construtor inesperado chamado Steve.",
+      "imagem": "https://m.media-amazon.com/images/S/pv-target-images/9ed7459c82764af245e9bba587575f0fbc7416290bc305797cf9cc42f4737e86.jpg"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "livros": [
+    {
+      "id": "1",
+      "titulo": "Lógica de Programação e Algoritmos com Javascript - 2ª Edição",
+      "autor": "Edécio Fernando Iepsen",
+      "genero": "Tecnologia",
+      "editora": "Novatec",
+      "lancamento": "18 março 2022",
+      "preco": "R$: 64,08",
+      "sinopse": "Este livro aborda a lógica de programação e algoritmos de forma didática, com exemplos em JavaScript e foco em iniciantes. A 2ª edição inclui capítulos sobre Node.js, Express e React, ensinando do básico ao desenvolvimento web completo com prática e exercícios fixadores.",
+      "imagem": "https://m.media-amazon.com/images/I/71X7hMhMEUL._SL1500_.jpg"
+    },
+    {
+      "id": "329c",
+      "titulo": "Código Limpo",
+      "genero": "Tecnologia",
+      "autor": "Robert C. Martin",
+      "editora": "Alta Books",
+      "lancamento": "2 março 2020",
+      "preco": "R$: 88,20",
+      "sinopse": "Código Limpo, de Robert C. Martin, mostra como escrever códigos claros, organizados e fáceis de manter. O livro ensina boas práticas de programação e incentiva uma postura profissional para criar softwares de qualidade. ",
+      "imagem": "https://m.media-amazon.com/images/I/71JpZHEGvWL._UF1000,1000_QL80_.jpg"
+    }
+  ]
+}
