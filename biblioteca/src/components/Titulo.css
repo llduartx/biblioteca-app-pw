@@ -1,8 +1,12 @@
+*{
+  font-family: "Open Sans", sans-serif;
+}
+
 header {
   display: flex;
   align-items: center;
-  background-color: rgb(67, 67, 141);
-  color: #faca64;
+  background-color: #1E2A38;
+  color: #FFD43B;
   padding: 2rem;
   flex-direction: column;
   gap: 10px;
@@ -14,15 +18,12 @@ header > img {
   width: 120px;
   margin-left: 1rem;
   margin-right: 20px;
-  background-color: rgb(67, 67, 141);
 }
 
 header > h1 {
   font-weight: bold;
-  background-color: rgb(67, 67, 141);
 }
 
 header > h2 {
   font-style: italic;
-  background-color: rgb(67, 67, 141);
 }
