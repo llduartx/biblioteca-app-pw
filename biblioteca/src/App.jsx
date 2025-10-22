@@ -32,15 +32,13 @@ function App() {
 
   return (
     <>
-    <section className='tudo'>
       <div className='titulotopo'>
-      < Titulo />
+        < Titulo />
       </div>
       <h1 className='titulo__lista'>Livros Disponíveis</h1>
       <div className='lista__cards'>
         {listaLivros}
       </div>
-      </section>
     </>
   )
 }
